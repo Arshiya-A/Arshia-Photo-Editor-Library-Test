@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2FTWG0iPAN/UdRgsy+3nmBAjLja0VWleZcGd8R8BuX5eIx9VZBerp4VR76i3YCoJFP6osG8WffWzGUOejIR4Cw==",
+  "success": true,
+  "projectFilePath": "D:\\MyProjects\\PhotoLibraryTest\\PhotoLibraryTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arshi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\arshi\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

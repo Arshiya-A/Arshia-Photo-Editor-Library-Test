@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DctQoErangGPzZKze47RTm2PQiBF2JLLBD0VZM+oWx3Qx80AZzJikUsxcxNJzPUSbioFtLtQ0fLYTxqEmJaeyA==",
+  "success": true,
+  "projectFilePath": "D:\\MyProjects\\PhotoLibraryTest\\ArshiaPhotoEditorLibrary\\ArshiaPhotoEditorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arshi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\arshi\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
